@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ナツゾラ",
+  "base_artist": "HoneyComeBear",
+  "createdAt": "2026-03-19T06:51:05.516637Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナツゾラ",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/01_ナツゾラ_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Natsuzora - ナツゾラ",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/02_Natsuzora_-_ナツゾラ_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HoneyComeBear - ナツゾラ (Official Audio)",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/03_HoneyComeBear_-_ナツゾラ_(Official_Audio)_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ナツゾラ - Natsuzora",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/04_ナツゾラ_-_Natsuzora_HoneyComeBear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナツゾラ",
+      "artist": "HoneyComeBear",
+      "has_synced": false,
+      "path": "select/pl_01_ナツゾラ_HoneyComeBear.txt"
+    }
+  ]
+}
